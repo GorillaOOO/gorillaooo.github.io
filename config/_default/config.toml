@@ -68,10 +68,7 @@ ignoreErrors = ["error-remote-getjson"]
   # Note: ["ACTIVITY", "URL or PATH TO YOUR MARKDOWN FILE"]
   files = [ 
     ["Our Team", "https://gorilla.ooo/"],
-    ["Python", "https://www.example.com/"],
-    ["Go", "https://golang.org/"],
-    ["Hugo", "/post/some-activity.md"],
-    ["Docker", "/post/some-activity.md"],
+    ["GForum", "https://gorilla.ooo/"],
   ]
 
 [module]
